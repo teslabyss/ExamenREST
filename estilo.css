@@ -1,0 +1,20 @@
+body {
+  background: #ffffff;
+  background: -webkit-linear-gradient(to right, #2f009e, #560159);
+  background: linear-gradient(to left, #2f009e, #560159);
+  font-family: "Poppins", sans-serif;
+
+  color: white;
+}
+#titulo {
+  background-color: #2a02ad;
+  color: white;
+  padding: 10px;
+}
+.form-control {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
+.pais {
+  font-size: 25px;
+}
